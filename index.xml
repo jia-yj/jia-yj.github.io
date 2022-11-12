@@ -1,0 +1,165 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The waves broke on the shore on JiaYJ&#39;s Blog</title>
+    <link>https://jia-yj.github.io/</link>
+    <description>Recent content in The waves broke on the shore on JiaYJ&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>JiaYJ&#39;s Blog</copyright>
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://jia-yj.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>It&#39;s a beautiful thing, the destruction of words</title>
+        <link>https://jia-yj.github.io/posts/destruction-of-words/</link>
+        <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+        
+        <guid>https://jia-yj.github.io/posts/destruction-of-words/</guid>
+        <description>JiaYJ&#39;s Blog https://jia-yj.github.io/posts/destruction-of-words/ -&lt;h1 id=&#34;he-moved-over-to-the-window&#34;&gt;He moved over to the window&lt;/h1&gt;
+&lt;p&gt;Lorem markdownum comes; pro est &lt;a href=&#34;#pervenerat&#34;&gt;modo famulus&lt;/a&gt;, quo quod neu
+manibus aether his nomine, Aurora, voce. Ipse virga res vidit profanis vocatos,
+quod vestigia cineres, dum silva in vapor. Tendite caelestibus quam, sub inplet
+prole eveniet &lt;strong&gt;superi&lt;/strong&gt; rus proles venenis potestas Tereo pluribus sunto.&lt;/p&gt;
+&lt;p&gt;Perque cessisse, hoc tum auras sinuosa. Pressant nec vinci primoque quoque
+funibus est: et tempore vetitorum? Coercet tantum adsensibus religata protinus
+venturas et Achilli, nat iam cum deque.&lt;/p&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
+&lt;p&gt;Is polus Hymenaeus extrema communes, nos versus gramen, fervet: sincera quati.
+Dixit extulerat; iunctas et &lt;a href=&#34;http://egofateri.net/&#34;&gt;Aeaciden Illa&lt;/a&gt;, visa
+&lt;a href=&#34;http://euntemcrepuscula.com/subiecta.html&#34;&gt;viris&lt;/a&gt;. Ignoro dixit et linquit
+moenia parilique dum deo cum, dat et superasse explorat causam crepuscula si
+nitet inplevit.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Saxum sustinuit pugnatum medere temptamenta vellera mihi&lt;/li&gt;
+&lt;li&gt;Verbis meorum canes intraverat simul in quem&lt;/li&gt;
+&lt;li&gt;Cutis mirabile tandemque ut in dominis Abarin&lt;/li&gt;
+&lt;li&gt;Marmore deus orant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;
+&lt;p&gt;Oriente nec radios nurus, quod undas, occupat conpescit femina est 🥷.  resistite
+regno armenta suspirat. Mare condor dedi iussa Amoris et cacumine vellent Graios
+et praebetis quoque frementem nostris apertis Iunonigenaeque moenia. Squalidus
+quoque &lt;strong&gt;cinnamaque fiducia concurrit&lt;/strong&gt;; teneat haec praemia flagrantemque facto
+atque, depositoque fugit pro est loquor, nempe!&lt;/p&gt;
+&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;
+&lt;p&gt;Enim acclinia opera; &lt;em&gt;ea gemit&lt;/em&gt;. Cervice sine tibi forma; non inde rubescere
+usque fixurus Echione, ut. Inter genetrix tergo; semina praestant at &lt;strong&gt;eadem&lt;/strong&gt;,
+quem bis cuius crede sparsas diversa diva. A inquit cingebant. Verso rostro,
+venit huic nobis Phoebe mihi aurea sacrum mutare dixit; iam?&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$(&lt;span style=&#34;color:#658b00&#34;&gt;window&lt;/span&gt;).scroll(&lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;function&lt;/span&gt; () {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#228b22&#34;&gt;// this will work when your window scrolled.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#228b22&#34;&gt;&lt;/span&gt;  &lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;var&lt;/span&gt; scroll = $(&lt;span style=&#34;color:#658b00&#34;&gt;window&lt;/span&gt;).scrollTop(); &lt;span style=&#34;color:#228b22&#34;&gt;//getting the scrolling height of window
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#228b22&#34;&gt;&lt;/span&gt;  &lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;if&lt;/span&gt; (scroll &amp;gt; &lt;span style=&#34;color:#b452cd&#34;&gt;100&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    $(&lt;span style=&#34;color:#cd5555&#34;&gt;&amp;#34;.header&amp;#34;&lt;/span&gt;).addClass(&lt;span style=&#34;color:#cd5555&#34;&gt;&amp;#34;header-scrolled&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  } &lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;else&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    $(&lt;span style=&#34;color:#cd5555&#34;&gt;&amp;#34;.header&amp;#34;&lt;/span&gt;).removeClass(&lt;span style=&#34;color:#cd5555&#34;&gt;&amp;#34;header-scrolled&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;});
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;heading-2-1&#34;&gt;Heading 2&lt;/h2&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Example of using raw HTML&lt;!-- raw HTML omitted --&gt; to insert a &lt;!-- raw HTML omitted --&gt;link&lt;!-- raw HTML omitted --&gt;
+Saeva gaudia; per est subit Ereboque et altaque repetunt repperit aegida
+ingenium humumque vitium quoque distantia vidit. Cervice Theron formae, terrae
+ubi solent spreto: dignus tamen vetuere, omen. Plures victa successor vellet, et
+a undis miles feramus de quae fuit corpore &lt;strong&gt;amor&lt;/strong&gt;; inquam penatigero tibi!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;At germana illo undique ducis et utque leti apta amictu, ego avibus. Viridis
+Munus est tutos posse sede, et est inquit, iussis. Ibat galeae auras non nomina&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Munus est tutos posse sede, et est inquit, iussis. Ibat galeae auras non nomina
+Siqua et nomen Achille nox casusque una lex dicit dat, imagine! Obscenae me
+nostra, mox illo permulcet aliquis color aequoris, timidi,
+&lt;a href=&#34;http://talibus-comitem.org/invia&#34;&gt;illo&lt;/a&gt;?&lt;/p&gt;
+- https://jia-yj.github.io/posts/destruction-of-words/ - JiaYJ&#39;s Blog</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Who controls the past controls the future. Who controls the present controls the past.</title>
+        <link>https://jia-yj.github.io/posts/controls-the-past/</link>
+        <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+        
+        <guid>https://jia-yj.github.io/posts/controls-the-past/</guid>
+        <description>JiaYJ&#39;s Blog https://jia-yj.github.io/posts/controls-the-past/ -&lt;h2 id=&#34;he-moved-over-to-the-window&#34;&gt;He moved over to the window&lt;/h2&gt;
+&lt;p&gt;Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly.&lt;/p&gt;
+&lt;p&gt;Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig iron. The voice came from an oblong metal plaque like a dulled mirror which formed part of the surface of the right-hand wall. Winston turned a switch and the voice sank somewhat, though the words were still distinguishable. The instrument (the telescreen, it was called) could be dimmed) but there was no way of shutting it off completely.&lt;/p&gt;
+&lt;p&gt;He moved over to the window: a smallish, frail figure, the meagerness of his body merely emphasized by the blue overalls which were the uniform of the Party. His hair was very fair, his face naturally sanguine, his skin roughened by coarse soap and blunt razor blades and the cold of the winter that had just ended.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Saxum sustinuit pugnatum medere temptamenta vellera mihi&lt;/li&gt;
+&lt;li&gt;Thalamoque lugubris qui loco croceum&lt;/li&gt;
+&lt;li&gt;Torque exploratis ornum intexuit gestamina est&lt;/li&gt;
+&lt;li&gt;Verbis meorum canes intraverat simul in quem&lt;/li&gt;
+&lt;li&gt;Cutis mirabile tandemque ut in dominis Abarin&lt;/li&gt;
+&lt;li&gt;Marmore deus orant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hos-sum-sex-o-quamvis-thoantis-gentes&#34;&gt;Hos sum sex o quamvis Thoantis gentes&lt;/h2&gt;
+&lt;p&gt;Is polus Hymenaeus extrema communes, nos versus gramen, fervet: sincera quati.
+Dixit extulerat; iunctas et &lt;a href=&#34;http://egofateri.net/&#34;&gt;Aeaciden Illa&lt;/a&gt;, visa
+&lt;a href=&#34;http://euntemcrepuscula.com/subiecta.html&#34;&gt;viris&lt;/a&gt;. Ignoro dixit et linquit
+moenia parilique dum deo cum, dat et superasse explorat causam crepuscula si
+nitet inplevit.&lt;/p&gt;
+&lt;p&gt;Oriente nec radios nurus, quod undas, occupat conpescit femina est; resistite
+regno armenta suspirat. Mare condor dedi iussa Amoris et cacumine vellent Graios
+et praebetis quoque frementem nostris apertis Iunonigenaeque moenia. Squalidus
+quoque &lt;strong&gt;cinnamaque fiducia concurrit&lt;/strong&gt;; teneat haec praemia flagrantemque facto
+atque, depositoque fugit pro est loquor, nempe!&lt;/p&gt;
+&lt;h2 id=&#34;ocior-saxa-phoebus-placet&#34;&gt;Ocior saxa Phoebus placet&lt;/h2&gt;
+&lt;p&gt;Enim acclinia opera; &lt;em&gt;ea gemit&lt;/em&gt;. Cervice sine tibi forma; non inde rubescere
+usque fixurus Echione, ut. Inter genetrix tergo; semina praestant at &lt;strong&gt;eadem&lt;/strong&gt;,
+quem bis cuius crede sparsas diversa diva. A inquit cingebant. Verso rostro,
+venit huic nobis Phoebe mihi aurea sacrum mutare dixit; iam?&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$(&lt;span style=&#34;color:#658b00&#34;&gt;window&lt;/span&gt;).scroll(&lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;function&lt;/span&gt; () {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#228b22&#34;&gt;// this will work when your window scrolled.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#228b22&#34;&gt;&lt;/span&gt;  &lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;var&lt;/span&gt; scroll = $(&lt;span style=&#34;color:#658b00&#34;&gt;window&lt;/span&gt;).scrollTop(); &lt;span style=&#34;color:#228b22&#34;&gt;//getting the scrolling height of window
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#228b22&#34;&gt;&lt;/span&gt;  &lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;if&lt;/span&gt; (scroll &amp;gt; &lt;span style=&#34;color:#b452cd&#34;&gt;100&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    $(&lt;span style=&#34;color:#cd5555&#34;&gt;&amp;#34;.header&amp;#34;&lt;/span&gt;).addClass(&lt;span style=&#34;color:#cd5555&#34;&gt;&amp;#34;header-scrolled&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  } &lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;else&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    $(&lt;span style=&#34;color:#cd5555&#34;&gt;&amp;#34;.header&amp;#34;&lt;/span&gt;).removeClass(&lt;span style=&#34;color:#cd5555&#34;&gt;&amp;#34;header-scrolled&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;});
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;animi-igne&#34;&gt;Animi igne&lt;/h2&gt;
+&lt;p&gt;Saeva gaudia; per est subit Ereboque et altaque repetunt repperit aegida
+ingenium humumque vitium quoque distantia vidit. Cervice Theron formae, terrae
+ubi solent spreto: dignus tamen vetuere, omen. Plures victa successor vellet, et
+a undis miles feramus de quae fuit corpore &lt;strong&gt;amor&lt;/strong&gt;; inquam penatigero tibi!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;At germana illo undique ducis et utque leti apta amictu, ego avibus. Viridis
+Munus est tutos posse sede, et est inquit, iussis. Ibat galeae auras non nomina&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Munus est tutos posse sede, et est inquit, iussis. Ibat galeae auras non nomina
+Siqua et nomen Achille nox casusque una lex dicit dat, imagine! Obscenae me
+nostra, mox illo permulcet aliquis color aequoris, timidi,
+&lt;a href=&#34;http://talibus-comitem.org/invia&#34;&gt;illo&lt;/a&gt;?&lt;/p&gt;
+- https://jia-yj.github.io/posts/controls-the-past/ - JiaYJ&#39;s Blog</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>第一篇博客</title>
+        <link>https://jia-yj.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+        
+        <guid>https://jia-yj.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+        <description>JiaYJ&#39;s Blog https://jia-yj.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/ -&lt;h2 id=&#34;弗吉尼亚伍尔夫&#34;&gt;弗吉尼亚·伍尔夫&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Virginia Woolf&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;弗吉尼亚·伍尔夫的母亲朱莉亚·斯蒂芬的肖像照片，拍摄者是朱莉亚·玛格丽特·卡梅隆&lt;/strong&gt;
+弗吉尼亚·伍尔夫（英语：Virginia Woolf；1882 年 1 月 25 日－1941 年 3 月 28 日），英国作家，被誉为二十世纪现代主义与女性主义的先锋。在一战与二战的战间期，她是伦敦文学界的核心人物，同时也是布卢姆茨伯里派（Bloomsbury Group）的成员。最知名的小说包括《达洛维夫人》（Mrs. Dalloway）、《到灯塔去》（To the Lighthouse）、《雅各的房间》（Jakob&amp;rsquo;s Room）、《奥兰多》，散文《自己的房间》等，其中的名言指出，女人必须有她自己的一点收入及独立的房间。&lt;/p&gt;
+- https://jia-yj.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/ - JiaYJ&#39;s Blog</description>
+        </item>
+    
+    
+    
+    
+    
+    
+    
+    
+  </channel>
+</rss> 
